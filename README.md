@@ -1,2 +1,1 @@
-# Portfolio_AD
-Portfolio of my Friend!!!
+ https://omkumar-rajput.github.io/Portfolio_AD/
